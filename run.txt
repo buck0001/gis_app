@@ -1,0 +1,9 @@
+Terminal 1 — start the backend:
+.\.venv\Scripts\Activate.ps1
+python -m uvicorn api.main:app --host 127.0.0.1 --port 8000 --reload
+
+Terminal 2 — start the frontend:
+.\.venv\Scripts\Activate.ps1
+cd frontend
+npm run dev
+Then open http://localhost:3000 in your browser. To stop either part, press Ctrl+C in its terminal.
