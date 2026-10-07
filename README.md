@@ -15,7 +15,7 @@ This guide is written for a anyone setting up the app on Windows. The applicatio
 ![Lower project view with result layers](./screenshots/04-project-lower.png)
 
 ## Features
-
+ 
 - Create and reopen GIS projects.
 - Define an AOI by drawing a polygon or rectangle, uploading a boundary file, or using coordinate search to move the map.
 - Automatically acquire Copernicus DEM GLO-30 data for an AOI, or upload a GeoTIFF DEM.
