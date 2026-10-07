@@ -4,6 +4,16 @@ A local web app for preparing an area of interest (AOI), acquiring or uploading 
 
 This guide is written for a anyone setting up the app on Windows. The application has a Next.js frontend and a Python/FastAPI GIS backend. The backend stores projects in a local SQLite database and writes project files under `data\storage`.
 
+## Screenshots
+
+![GIS Mapper home screen](./screenshots/01-home.png)
+
+![Project overview](./screenshots/02-project-overview.png)
+
+![Project map and analysis view](./screenshots/03-project-middle.png)
+
+![Lower project view with result layers](./screenshots/04-project-lower.png)
+
 ## Features
 
 - Create and reopen GIS projects.
@@ -188,7 +198,3 @@ npm run build
 Share the application source and this guide, but do not send `frontend\node_modules\` or `.venv\`; they can be recreated using the installation steps. Share `data\gis.db` and the corresponding `data\storage\` project directory only when you intend to transfer saved projects and have checked that you are permitted to share the included inputs and outputs.
 
 The development server is intended for trusted local use, not direct exposure to the public internet. This setup does not provide user authentication or access control.
-#   g i s - a p p 
- 
- #   g i s _ a p p  
- 
