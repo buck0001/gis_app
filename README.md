@@ -6,13 +6,19 @@ This guide is written for a anyone setting up the app on Windows. The applicatio
 
 ## Screenshots
 
+### App overview
+
 ![GIS Mapper home screen](./screenshots/01-home.png)
 
 ![Project overview](./screenshots/02-project-overview.png)
 
 ![Project map and analysis view](./screenshots/03-project-middle.png)
 
-![Lower project view with result layers](./screenshots/04-project-lower.png)
+### Result layers and analysis outputs
+
+![Contours result](./screenshots/gis-app-contours-result.png)
+
+![Flow accumulation result](./screenshots/gis-app-flow_accumulation-result.png)
 
 ## Features
  
